@@ -131,7 +131,7 @@ const Hero = () => {
           ref={heroBgRef}
           className="absolute inset-0 will-change-transform"
           style={{
-            backgroundImage: "url('/hero.web')",
+            backgroundImage: "url('/hero.webp')",
             backgroundSize: "cover",
             backgroundPosition: "center 10%",
           }}
